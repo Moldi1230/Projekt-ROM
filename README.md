@@ -1,2 +1,2 @@
 # Projekt-ROM
-Moj nov projekt
+Moj nov projekt :)
