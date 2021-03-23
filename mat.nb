@@ -1,0 +1,49 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1067,         39]
+NotebookOptionsPosition[       718,         25]
+NotebookOutlinePosition[      1117,         41]
+CellTagsIndexPosition[      1074,         38]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["Nova naloga", "Title",
+ CellChangeTimes->{{3.825498473422207*^9, 
+  3.8254984871291995`*^9}},ExpressionUUID->"535e388b-03b6-4eff-b7ac-\
+283176a1511c"]
+},
+WindowSize->{776, 872},
+WindowMargins->{{564, Automatic}, {Automatic, 54}},
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (June 19, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"f54e3d32-3d16-4daa-8f8c-59a387ee8122"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 156, 3, 96, "Title",ExpressionUUID->"535e388b-03b6-4eff-b7ac-283176a1511c"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
