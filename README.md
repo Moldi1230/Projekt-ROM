@@ -10,5 +10,4 @@ Pri projektu uporabljamo računalniški program Mathematica.
 3. Kakšne so posledice čez leta in kakšne bodo če ne bvomo nič spremenili
 4. Kako se izdelujejo različne vrste plastike in kako škodljiva je njihova izdelava za okolje 
 
-
 Pripravil: *Aleksander Moldovan*
